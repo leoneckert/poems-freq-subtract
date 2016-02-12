@@ -1,7 +1,3 @@
-# poems-freq-subtract
-two different algorithms to manipulate text. Here is a piece created using the swap_most_frequent_word.py. The input in this case was 1) parts of the Google Privacy Policy and 2) Lil Wayne's Lollipop lyrics. 
-
-```bash
  OK after our services This up and stop
  Drop This address, drop This our it's hot
  Oh, drop This our it's hot
@@ -38,5 +34,3 @@ two different algorithms to manipulate text. Here is a piece created using the s
  Account. we with Policy We take This what information our
  Account. we with Policy We or This what information our
  Account. we with Policy We take This what information our
-
-```
