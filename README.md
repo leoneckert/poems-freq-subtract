@@ -40,3 +40,72 @@ two different algorithms to manipulate text. Here is a piece created using the s
  Account. we with Policy We take This what information our
 
 ```
+
+The script that created the next piece is subtract_two_texts.py.
+The input in this case was 1) the whole Google Privacy Policy and 2) the whole Patriots Act
+
+```bash
+ current party malicious
+ different treat processing businesses Service,
+ However,
+ Privacy activity,
+ signed people
+ need
+ access, (such Other developed uses trends
+ Internet meaningful provide, what
+ how associated
+ For
+ entire check fail
+
+ even
+ important easily
+ addition, personal intended
+ As
+ like
+
+ along
+ access. content
+ confirm agents
+ better
+ social reduce others know indicating
+
+ two
+ reason able
+ immediately
+ law.
+ There
+ Data
+ currently language
+ recent date.
+
+ terminated disabled
+ change
+
+
+ changes age work
+ birthday
+ offered
+ August key
+ searches field
+
+ devices, collect
+ information)
+ Safe
+ refer previous
+
+
+
+
+ across
+ appear policy
+ With
+
+
+ results, results
+
+
+
+ data,
+
+ user
+ ```

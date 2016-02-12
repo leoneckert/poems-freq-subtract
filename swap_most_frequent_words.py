@@ -7,7 +7,7 @@ import os
 # python swap_most_frequent_words.py input_texts/frost.txt input_texts/sea_rose.txt
 
 
-replace_factor = 0.4  
+replace_factor = 0.5
 # from 0 to 1, 0 doesnt replce anywords, 1 replaces all words from of the text 
 # with fewer words and the same amount of the text with more words
 
